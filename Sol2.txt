@@ -1,0 +1,16 @@
+The four pillars of object-oriented programming (OOP) are:
+
+Encapsulation: Encapsulation is the practice of bundling data and methods (functions) that operate on that data within a single unit called a class. It allows the class to control the access and modification of its internal state. By encapsulating related data and methods together, encapsulation promotes data hiding and provides a way to organize code and prevent unauthorized access to data.
+
+Inheritance: Inheritance is a mechanism that allows a class to inherit properties and behaviors from another class. The class that inherits from another class is called a subclass or derived class, and the class being inherited from is called a superclass or base class. Inheritance promotes code reuse, as the subclass can inherit and extend the attributes and methods of the superclass, avoiding code duplication.
+
+Polymorphism: Polymorphism refers to the ability of objects to take on different forms and exhibit different behaviors based on the context. It allows objects of different classes to be treated as objects of a common superclass. Polymorphism enables code to be written that can work with objects of multiple types, promoting flexibility and extensibility.
+
+Abstraction: Abstraction involves the concept of creating simplified models or representations of complex real-world entities. It allows programmers to focus on the essential features of an object while hiding unnecessary details. Abstraction provides a way to create abstract classes or interfaces that define a set of common methods without implementing them, leaving the implementation details to the concrete subclasses. It helps in managing complexity and allows for easier maintenance and modification of code.
+
+These four pillars of OOP provide principles and techniques to design and implement object-oriented systems, enabling modular, reusable, and maintainable code.
+
+
+
+
+
